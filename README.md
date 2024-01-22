@@ -29,3 +29,13 @@ The data is acquired from 3 sources:
 - 10 = rain with thunderstorm
 - 26 = snowfall
 - 94 = Freezing Fog
+
+# Table of Contents
+
+1. Downloading libraries
+
+2. Importing dataset
+
+3. Data exploration
+
+4. Data manipulation
